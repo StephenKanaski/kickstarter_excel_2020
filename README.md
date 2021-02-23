@@ -10,7 +10,7 @@ Other Key Insights
 
 Examples of graphs from pivot tables within KickStarter_Analysis Excel Spreadsheet
 
-
+![Project Outcome by Parent Category](visualizations/outcomes_ParentCategory.PNG)
 
 
 
