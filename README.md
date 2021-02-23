@@ -12,5 +12,6 @@ Examples of graphs from pivot tables within KickStarter_Analysis Excel Spreadshe
 
 ![Project Outcome by Parent Category](visualizations/outcomes_ParentCategory.PNG)
 
+![Project Outcome by Sub Category](visualizations/outcomes_Subcategory.PNG)
 
-
+![Funding Goals vs Project Outcome](visualizations/FundingGoal_v_Outcome.PNG)
